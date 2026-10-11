@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Matches the app's dark background token (LsColors.dark.bg) so the
+         launch window never flashes white before the first Flutter frame. -->
+    <color name="ls_bg">#0E1116</color>
+</resources>
